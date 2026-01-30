@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: PMPL-1.0
+// SPDX-License-Identifier: PMPL-1.0-or-later
 = zig-container-ffi
 
 Zig FFI bindings for container runtimes (Docker, Podman, nerdctl).
